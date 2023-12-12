@@ -71,3 +71,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bike-show.sh
 touch bike-shop.sh
 which bash
+echo -e "\n~~~~~ Bike Rental Shop ~~~~~"
