@@ -72,3 +72,5 @@ touch bike-show.sh
 touch bike-shop.sh
 which bash
 echo -e "\n~~~~~ Bike Rental Shop ~~~~~"
+ls --color=auto -l
+chmod +x bike-shop.sh
