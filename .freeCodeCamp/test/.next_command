@@ -295,3 +295,20 @@ $quick
 __vsc_prompt_cmd_original
 $quick
 ./bike-shop.sh
+pg_dump -Fc -Z 9 --file=bikes.sql bikes
+pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
+git init
+git branch -M main
+git remote add oigin main
+git remote -cv
+git remote -v
+git remote remove origin main
+git remote remove origin
+git remote rm origin
+git remote remove main
+git remote remove origin main
+git remote remove main
+git remote -v
+git remote remove oigin
+git remote add origin https://github.com/KylesTech95/bike-rental-shop.git
+git add .
