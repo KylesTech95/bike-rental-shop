@@ -216,3 +216,4 @@ $quick
 quick="psql --username=freecodecamp --dbname=postgres"
 $quick
 $quick
+./bike-shop.sh
