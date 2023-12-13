@@ -228,3 +228,5 @@ echo '28 | Mountain'
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+ecjp ' M e '
+echo ' M e '
