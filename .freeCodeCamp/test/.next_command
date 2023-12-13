@@ -217,3 +217,5 @@ quick="psql --username=freecodecamp --dbname=postgres"
 $quick
 $quick
 ./bike-shop.sh
+echo '28 | Mountain'
+echo '28 | Mountain'
