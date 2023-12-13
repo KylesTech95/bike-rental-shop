@@ -210,3 +210,9 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
+qucik="psql --username=freecodecamp --dbname=postgres; \c bikes;"
+quick
+$quick
+quick="psql --username=freecodecamp --dbname=postgres"
+$quick
+$quick
